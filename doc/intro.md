@@ -1,3 +1,3 @@
 # Introduction to jcip
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+Script to download code examples from [Java Concurrency in Practice](https://jcip.net/).
